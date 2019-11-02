@@ -9,7 +9,7 @@
 
   <properties>
     <elasticsearch.version>5.2.2</elasticsearch.version>
-    <lucene.version>6.4.1</lucene.version>
+    <lucene.version>8.3.0</lucene.version>
     <joda.time.version>2.9.5</joda.time.version>
   </properties>
 
